@@ -28,3 +28,8 @@ Para rodar este projeto localmente, siga a ordem:
 2. Execute a ingestão inicial: `python bronze.py`.
 3. Execute o tratamento: `python silver.py`.
 4. Carregue os dados no banco: `python gold.py`.
+Custo Total: Qual é o gasto total da empresa com salários base por departamento?  
+Horas Extras: Qual departamento teve o maior volume de horas extras pagas?  
+Investimento vs. Extra: Qual a relação percentual entre horas extras e salário base em cada setor? (Esta é a pergunta sugerida no PDF)   
+Retenção: Quantos funcionários foram contratados em cada ano? (Para ver o crescimento da empresa)   
+Média Salarial: Qual é o salário médio por departamento para identificar disparidades? 
